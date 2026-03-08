@@ -1,7 +1,0 @@
-{
-  "name": "UCab",
-  "description": "A scalable cab booking and allocation platform built using the MERN Stack.",
-  "requestFramePermissions": [
-    "geolocation"
-  ]
-}
